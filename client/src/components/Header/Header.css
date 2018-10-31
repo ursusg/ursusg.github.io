@@ -1,0 +1,20 @@
+.header {
+  background-color: #CBA5F3;
+  background-image: url("/assets/images/background.jpg");
+  background-repeat: repeat;
+  color: #2F3EA5;
+  min-height: 400px;
+  padding: 180px 20px; 
+  padding-bottom: 5px;
+  text-align: center;
+}
+
+.header h1 {
+  margin: 0;
+  margin-bottom: 20px;
+  font-size: 4rem;
+}
+
+.header h2 {
+  color: #10BEC3;
+}
